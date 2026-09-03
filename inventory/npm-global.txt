@@ -1,0 +1,6 @@
+/usr/lib
+├── @anthropic-ai/claude-code@2.1.233
+├── @openai/codex@0.148.0
+├── corepack@0.34.6
+└── npm@10.9.8
+

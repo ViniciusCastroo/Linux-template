@@ -1,0 +1,28 @@
+# Segredos e identidade de máquina
+**/.env
+**/.env.*
+!**/.env.example
+**/*credentials*
+**/*token*
+**/auth.json
+**/hosts.yml
+**/*.pem
+**/*.key
+**/id_rsa*
+**/id_ed25519*
+
+# Estado efêmero
+**/.DS_Store
+**/*.log
+**/*.sqlite*
+**/.cache/
+**/history*
+**/sessions/
+**/shell_snapshots/
+**/node_modules/
+**/.venv/
+**/__pycache__/
+
+# Snapshots locais opcionais
+inventory/gnome.dconf.tmp
+inventory/*.private

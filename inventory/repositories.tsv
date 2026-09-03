@@ -1,0 +1,4 @@
+name	url	branch	commit	dirty
+darwin	https://github.com/neotel-br/darwin.git	feat/calendario-espelho-microsoft	a1541f96fb3631b8141618aebb6e91065f6e86c4	no
+joker	https://github.com/neotel-br/joker.git	wip/neotoken-s3-frontend	989154356e150835f4e85f0cfe4e0929fc8a2239	no
+neocontratos	https://github.com/neotel-br/neocontratos.git	main	57459cc988e05635c6a89cb95e74d8e0c527d91a	no
